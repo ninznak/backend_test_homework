@@ -2,3 +2,7 @@ README.md
 *.doc
 *.tt
 pit.doc
+/Dev/backend_test_homeworkREADME.md
+/Dev/backend_test_homework*.doc
+/Dev/backend_test_homework*.tt
+/Dev/backend_test_homeworkpit.doc
